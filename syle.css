@@ -1,0 +1,48 @@
+    /* hero background image*/
+    .bgimage {
+        height: 1080px;
+        width: 1980px ;
+        background: url('gunung2.jpeg');
+        background-size:cover;
+        position:relative;
+    }
+    /* text css above hero image*/
+    .title {
+        font-size: 3.5rem;
+        position: relative;
+     
+    }
+    .desc {
+        font-size: 1rem;
+        
+    }
+    .text {
+        text-align: center;
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+    }
+
+    /* about section image css */
+    .imageAboutPage {
+        width: 100%;
+    }
+
+    .navbarScroll.navbarDark {
+        background-color: black;
+    }
+
+    
+
+    /* body{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    header {
+        background-color: antiquewhite;
+        padding:30px;
+        text-align: center;
+        color: black;
+    } */
